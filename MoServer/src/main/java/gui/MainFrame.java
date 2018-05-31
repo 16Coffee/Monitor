@@ -18,7 +18,7 @@ import action.Server;
 * @author 张亚军
 * @mailbox 2082202747@qq.com 
 * @version 2017年5月4日 下午2:37:04 
-* 类说明: 
+* 类说明: 启动类
 */
 public class MainFrame extends JFrame{
 	
